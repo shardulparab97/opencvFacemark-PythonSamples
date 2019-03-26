@@ -1,1 +1,2 @@
-# opencvFacemark-PythonSamples
+Simply run using 
+python faceLandmarkDetector.py
